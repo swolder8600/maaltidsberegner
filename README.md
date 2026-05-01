@@ -1,0 +1,2 @@
+# maaltidsberegner
+Beregning af makronæringsindhold
